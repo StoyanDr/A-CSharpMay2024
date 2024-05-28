@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_06._JaggedArrayManipulator</RootNamespace>
+    <RootNamespace>_04.EvenTimes</RootNamespace>
   </PropertyGroup>
 
 </Project>
